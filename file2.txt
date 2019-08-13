@@ -1,0 +1,6 @@
+copy con file2.txt file3.txt
+copy con file2.txt
+
+
+cd
+exit
